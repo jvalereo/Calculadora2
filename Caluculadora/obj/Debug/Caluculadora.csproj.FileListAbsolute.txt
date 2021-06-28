@@ -1,0 +1,28 @@
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\bin\Debug\Caluculadora.exe.config
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\bin\Debug\Caluculadora.exe
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\bin\Debug\Caluculadora.pdb
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.Form1.resources
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.exe
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.pdb
+C:\Users\Jonas\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\bin\Debug\Caluculadora.exe.config
+C:\Users\Jonas\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.exe
+C:\Users\Jonas\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.pdb
+C:\Users\Jonas\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\bin\Debug\Caluculadora.exe
+C:\Users\Jonas\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\bin\Debug\Caluculadora.pdb
+C:\Users\Jonas\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.Form1.resources
+C:\Users\Jonas\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.Properties.Resources.resources
+C:\Users\Jonas\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Caluculadora\Caluculadora\obj\Debug\Caluculadora.csproj.GenerateResource.Cache
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\bin\Debug\Caluculadora.exe.config
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\bin\Debug\Caluculadora.exe
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\bin\Debug\Caluculadora.pdb
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\obj\Debug\Caluculadora.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\obj\Debug\Caluculadora.Form1.resources
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\obj\Debug\Caluculadora.Properties.Resources.resources
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\obj\Debug\Caluculadora.csproj.GenerateResource.cache
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\obj\Debug\Caluculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\obj\Debug\Caluculadora.exe
+C:\Users\Jonas\Desktop\Caluculadora\Caluculadora\obj\Debug\Caluculadora.pdb
