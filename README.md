@@ -25,7 +25,7 @@
 
 - PROJETO 2º MODULO: EXERCICIO DO CURSO - CURSO TÉCNICO EM INFORMÁTICA - ETESP
 - Projeto basico de CSharp em Laboratório , desenvolver  um sistema basico, calculadora
-- O importante foi o aprendezido, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento em sistema em 2015
+- O importante foi o aprendizado, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento em sistema em 2015
 - INSTITUIÇÃO DE ENSINO: ETEC DE SÃO PAULO - 2º Modulo do Curso Técnico em Informática
 - Data:  20/07/ 2015
 - Aluno: Jonas Valereo - Técnico em Informática
