@@ -1,10 +1,12 @@
 # Layout
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123557851-8ce09b00-d769-11eb-9cdb-64f64ab05849.jpg"></img>
+<img align="center"  alt="jonas-Layout" height ="1000" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123568853-9125ac00-d79b-11eb-8789-c3a422d68883.PNG"></img>
 </a>
 
 ##
+![2]()
+![Calculadora](https://user-images.githubusercontent.com/25933386/123568855-91be4280-d79b-11eb-92ff-7dd80c056b19.PNG)
 
 <a href="#">
 <img align="center"  alt="jonas-Layout" height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123557960-3031b000-d76a-11eb-9322-e9491d285d75.jpg"></img>
@@ -23,6 +25,14 @@
 </a>
 
 ##
+
+<a href="#">
+<img align="center"  alt="jonas-Layout" height ="200" width ="350" src ="https://user-images.githubusercontent.com/25933386/117364128-e88e5680-ae93-11eb-9a31-6b5a0d22a2a3.jpg" style="max-width: 100%;"></img>
+</a>
+
+<a href="#">
+<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+</a>
 
 <a href="#">
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/122838052-9da59280-d2cb-11eb-992e-d85c3a288e88.jpg" style="max-width: 100%;"></img>
