@@ -4,13 +4,10 @@
 <img align="center"  alt="jonas-Layout" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123568853-9125ac00-d79b-11eb-8789-c3a422d68883.PNG"></img>
 </a>
 
-![2]()
-![Calculadora](https://user-images.githubusercontent.com/25933386/123568855-91be4280-d79b-11eb-92ff-7dd80c056b19.PNG)
-
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="200" width ="350" src ="https://user-images.githubusercontent.com/25933386/117364128-e88e5680-ae93-11eb-9a31-6b5a0d22a2a3.jpg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-Layout" height ="200" width ="350" src ="https://user-images.githubusercontent.com/25933386/123568855-91be4280-d79b-11eb-92ff-7dd80c056b19.PNG" style="max-width: 100%;"></img>
 </a>
 
 <a href="#">
