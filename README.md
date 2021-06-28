@@ -15,27 +15,11 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123557963-3162dd00-d76a-11eb-9e52-731fc4474592.jpg"></img>
-</a>
-
-##
-
-<a href="#">
-<img align="center"  alt="jonas-Layout" height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123557965-31fb7380-d76a-11eb-96e1-9f7fb10b02fc.jpg"></img>
-</a>
-
-##
-
-<a href="#">
 <img align="center"  alt="jonas-Layout" height ="200" width ="350" src ="https://user-images.githubusercontent.com/25933386/117364128-e88e5680-ae93-11eb-9a31-6b5a0d22a2a3.jpg" style="max-width: 100%;"></img>
 </a>
 
 <a href="#">
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
-</a>
-
-<a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/122838052-9da59280-d2cb-11eb-992e-d85c3a288e88.jpg" style="max-width: 100%;"></img>
 </a>
 
 
