@@ -1,24 +1,24 @@
 # Layout
 
-<a href="#">
-<img align="center"  alt="jonas-Layout" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123568853-9125ac00-d79b-11eb-8789-c3a422d68883.PNG"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-Layout" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123568853-9125ac00-d79b-11eb-8789-c3a422d68883.PNG"></img></target>
 </a>
 
 ##
 
-<a href="#">
-<img align="center"  alt="jonas-Layout" height ="300" width ="500" src ="https://user-images.githubusercontent.com/25933386/123568855-91be4280-d79b-11eb-92ff-7dd80c056b19.PNG" style="max-width: 100%;"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-Layout" height ="300" width ="500" src ="https://user-images.githubusercontent.com/25933386/123568855-91be4280-d79b-11eb-92ff-7dd80c056b19.PNG" style="max-width: 100%;"></img></target>
 </a>
 
-<a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></target>
 </a>
 
 
 # Projeto ETESP - Etec de São Paulo - Centro Paula Souza 2015
 
-<a href="#">
-<img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img></target>
 </a>
 
 # Sobre o Projeto
